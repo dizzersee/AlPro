@@ -1,4 +1,4 @@
 # AlPro
-Ausgewählte AlPro Lösungen. Upload auf Anfrage.
+Ausgewählte AlPro Lösungen. Upload auf Anfrage nach Abgabefrist.
 
 ## keine Gewähr für Richtigkeit (keine Musterlösungen)
