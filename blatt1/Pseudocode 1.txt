@@ -1,0 +1,19 @@
+Lese positive Ganzzahl n ein
+
+if n == 1
+	Füge 1 der Ergebnisliste hinzu
+	
+else if n > 1
+
+	while n > 1 
+	
+		Setze p gleich der kleinsten Primzahl: p = 2
+	
+		while n nicht teilbar durch p ist
+			Setze p der nächstgroßen Primzahl
+		
+		
+		Füge p der Ergebnisliste hinzu
+	
+		Setze n = n / p
+	
